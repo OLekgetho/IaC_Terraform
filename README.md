@@ -1,4 +1,4 @@
-# Deploying Azure Infrasturcture with Terraform and Deploying the Terraform on GitHub with Git
+# Infrastructure as Code (IaC) Deployment on Azure with Terraform and Git
 
 ## Tools used
 
