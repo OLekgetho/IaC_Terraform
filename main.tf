@@ -79,8 +79,8 @@ resource "azurerm_windows_virtual_machine" "terrawin" {
   resource_group_name   = azurerm_resource_group.terrarg.name
   network_interface_ids = [azurerm_network_interface.terra-nic.id]
   size                  = var.vm_size
-  admin_username        = "adminuser"
-  admin_password        = "@AdminPasswd1"
+  admin_username        = ${{secret.USERNAME}}
+  admin_password        = ${{secret.PASSWORD}}
 
   os_disk {
     caching              = "ReadWrite"
