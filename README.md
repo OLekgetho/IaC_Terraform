@@ -29,7 +29,7 @@ The Terraform code was written from scratch and is fully version-controlled usin
 ![Azure Portal](https://github.com/OLekgetho/Images/blob/main/Terraform/Terraform%20(5).png)
 ![Git](https://github.com/OLekgetho/Images/blob/main/Terraform/Terraform%20(4).png)
 ![Git](https://github.com/OLekgetho/Images/blob/main/Terraform/Terraform%20(3).png)
-![Git](https://github.com/OLekgetho/Images/blob/main/Terraform/Terraform%20(15).png)
+![Git](https://github.com/OLekgetho/Images/blob/main/Terraform/Terraforms%20(15).png)
 
 ## Outcome:
 
